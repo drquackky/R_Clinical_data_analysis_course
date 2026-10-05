@@ -1,0 +1,260 @@
+case_id,comorbidity
+D001,Chronic Kidney Disease
+D002,Heart Disease
+D003,Chronic Kidney Disease
+D003,Hypertension
+D003,Obesity
+D004,None
+D005,Diabetes
+D005,Smoking
+D006,None
+D007,None
+D008,None
+D009,Diabetes
+D009,Hypertension
+D010,Hypertension
+D011,Hypertension
+D012,Asthma
+D013,Immunocompromised
+D013,Hypertension
+D014,Smoking
+D015,None
+D016,Obesity
+D017,None
+D018,None
+D019,Diabetes
+D019,Obesity
+D020,Diabetes
+D021,Asthma
+D022,None
+D023,Smoking
+D024,Hypertension
+D025,Diabetes
+D025,Smoking
+D025,Asthma
+D026,None
+D027,None
+D028,Obesity
+D029,Diabetes
+D029,Immunocompromised
+D029,Heart Disease
+D030,None
+D031,None
+D032,Smoking
+D032,Asthma
+D033,None
+D034,Diabetes
+D035,None
+D036,None
+D037,None
+D038,None
+D039,None
+D040,Obesity
+D040,Smoking
+D041,Smoking
+D042,Diabetes
+D043,Diabetes
+D044,Diabetes
+D044,Smoking
+D045,None
+D046,None
+D047,Immunocompromised
+D047,Heart Disease
+D048,Smoking
+D049,None
+D050,None
+D051,Hypertension
+D052,Smoking
+D053,Smoking
+D054,Smoking
+D055,None
+D056,None
+D057,None
+D058,Chronic Kidney Disease
+D059,Obesity
+D060,Diabetes
+D060,Immunocompromised
+D061,Diabetes
+D061,Smoking
+D062,Immunocompromised
+D062,Smoking
+D063,Asthma
+D063,Heart Disease
+D064,Obesity
+D064,Heart Disease
+D065,Hypertension
+D065,Obesity
+D065,Asthma
+D066,Diabetes
+D067,Hypertension
+D067,Smoking
+D068,None
+D069,Hypertension
+D070,Immunocompromised
+D071,Obesity
+D072,Chronic Kidney Disease
+D073,Hypertension
+D073,Obesity
+D074,None
+D075,None
+D076,Hypertension
+D076,Smoking
+D077,Smoking
+D077,Asthma
+D078,Heart Disease
+D079,None
+D080,None
+D081,Smoking
+D082,None
+D083,Hypertension
+D084,None
+D085,Heart Disease
+D086,Smoking
+D086,Liver Disease
+D087,None
+D088,Heart Disease
+D089,None
+D090,None
+D091,Liver Disease
+D092,Smoking
+D093,None
+D094,Diabetes
+D094,Smoking
+D094,Asthma
+D095,None
+D096,None
+D097,None
+D098,None
+D099,None
+D100,None
+D101,Diabetes
+D102,Diabetes
+D102,Smoking
+D103,Asthma
+D104,Obesity
+D104,Smoking
+D105,Asthma
+D106,None
+D107,Diabetes
+D108,Diabetes
+D108,Chronic Kidney Disease
+D109,None
+D110,None
+D111,None
+D112,None
+D113,Diabetes
+D114,Chronic Kidney Disease
+D114,Smoking
+D115,Liver Disease
+D116,None
+D117,Obesity
+D118,Obesity
+D119,Hypertension
+D120,Heart Disease
+D120,Liver Disease
+D121,Hypertension
+D122,Chronic Kidney Disease
+D122,Obesity
+D123,Heart Disease
+D124,Smoking
+D124,Heart Disease
+D125,None
+D126,None
+D127,None
+D128,None
+D129,Asthma
+D129,Liver Disease
+D130,Asthma
+D130,Liver Disease
+D131,None
+D132,Diabetes
+D132,Hypertension
+D132,Obesity
+D132,Smoking
+D133,Liver Disease
+D134,None
+D135,None
+D136,None
+D137,Asthma
+D138,Asthma
+D139,None
+D140,None
+D141,None
+D142,Smoking
+D143,None
+D144,None
+D145,Smoking
+D146,Immunocompromised
+D147,None
+D148,None
+D149,None
+D150,Diabetes
+D151,None
+D152,Obesity
+D153,Hypertension
+D154,Diabetes
+D155,None
+D156,None
+D157,Asthma
+D158,Obesity
+D159,None
+D160,Diabetes
+D160,Hypertension
+D160,Smoking
+D161,Hypertension
+D161,Smoking
+D162,Chronic Kidney Disease
+D163,None
+D164,Smoking
+D165,Chronic Kidney Disease
+D165,Obesity
+D166,None
+D167,Obesity
+D167,Heart Disease
+D168,None
+D169,Chronic Kidney Disease
+D169,Smoking
+D170,Hypertension
+D170,Obesity
+D170,Smoking
+D171,None
+D172,Obesity
+D173,Hypertension
+D173,Obesity
+D174,None
+D175,Diabetes
+D175,Immunocompromised
+D175,Hypertension
+D175,Heart Disease
+D176,None
+D177,Obesity
+D178,Smoking
+D179,Smoking
+D179,Asthma
+D179,Liver Disease
+D180,Diabetes
+D181,None
+D182,None
+D183,Obesity
+D184,None
+D185,Smoking
+D186,None
+D187,Chronic Kidney Disease
+D187,Obesity
+D188,None
+D189,Liver Disease
+D190,None
+D191,Chronic Kidney Disease
+D191,Smoking
+D192,Smoking
+D193,Diabetes
+D194,Asthma
+D195,None
+D196,Diabetes
+D196,Obesity
+D196,Smoking
+D196,Asthma
+D197,Smoking
+D198,Hypertension
+D199,Smoking
+D200,Hypertension

@@ -1,0 +1,201 @@
+case_id,sex,birth_day,birth_month,birth_year,occupation,previous_dengue,pregnant,province,district,symptom_onset_date,visit_date,temperature,test_result,severe_case,lab_technician
+D001,Male,21,7,1976,Unemployed,Yes,NA,Luang Prabang,Luang Prabang,2025-02-09,2025-02-10,37.7,Positive,No,Kham
+D002,Male,22,4,2008,Teacher,No,NA,Luang Prabang,Luang Prabang,2025-01-01,2025-01-03,36.8,Positive,No,Dara
+D003,Male,14,9,1955,Unemployed,Yes,NA,Vientiane Province,Phonehong,2025-12-28,2026-01-01,39.3,Positive,Yes,Som
+D004,Male,22,9,1998,Student,No,NA,Luang Prabang,Luang Prabang,2025-12-25,2025-12-28,37.0,Negative,No,Anou
+D005,Male,17,6,1999,Unemployed,No,NA,Luang Prabang,Xiengngeun,2025-04-18,2025-04-19,38.6,Negative,No,Anou
+D006,Male,19,9,2009,Farmer,No,NA,Champasak,Pathoumphone,2025-09-07,2025-09-08,37.6,Positive,No,Anou
+D007,Male,27,11,1995,Student,Unknown,NA,Vientiane Capital,Sisattanak,2025-09-26,2025-09-28,37.4,Negative,No,Kham
+D008,Male,16,2,1982,Student,Yes,NA,Luang Prabang,Xiengngeun,2025-11-23,2025-11-25,38.3,Positive,No,Anou
+D009,Male,22,7,1965,Healthcare Worker,No,NA,Vientiane Province,Phonehong,2025-03-02,2025-03-06,39.2,Positive,Yes,Anou
+D010,Male,14,10,2007,Office Worker,No,NA,Savannakhet,Kaysone,2025-02-10,2025-02-11,38.3,Negative,No,Kham
+D011,Male,19,4,2004,Teacher,Yes,NA,Luang Prabang,Luang Prabang,2025-06-04,2025-06-05,37.7,Positive,No,Anou
+D012,Male,12,11,2006,Healthcare Worker,Yes,NA,Vientiane Province,Thoulakhom,2025-04-09,2025-04-10,38.0,Negative,No,Dara
+D013,Female,18,2,2009,Office Worker,No,No,Luang Prabang,Luang Prabang,2025-05-08,2025-05-10,38.8,Negative,No,Anou
+D014,Male,15,5,1987,Student,No,NA,Vientiane Capital,Sisattanak,2025-05-12,2025-05-13,37.6,Negative,No,Som
+D015,Male,13,9,2004,Unemployed,Yes,NA,Luang Prabang,Xiengngeun,2025-11-08,2025-11-11,38.0,Positive,No,Som
+D016,Female,7,10,2003,Unemployed,Unknown,No,Luang Prabang,Xiengngeun,2025-02-03,2025-02-05,39.1,Negative,No,Som
+D017,Female,10,4,1994,Office Worker,No,No,Vientiane Province,Phonehong,2025-07-10,2025-07-12,38.2,Positive,No,Kham
+D018,Female,22,3,2000,Farmer,Yes,No,Vientiane Capital,Sisattanak,2025-03-04,2025-03-04,37.8,Positive,No,Dara
+D019,Male,6,5,1998,Teacher,No,NA,Savannakhet,Kaysone,2025-10-26,2025-10-28,38.4,Negative,No,Kham
+D020,Female,1,1,1964,Self-employed,No,Yes,Luang Prabang,Xiengngeun,2025-06-06,2025-06-11,39.6,Positive,Yes,Dara
+D021,Female,16,11,2005,Teacher,No,No,Savannakhet,Kaysone,2025-11-15,2025-11-18,38.3,Negative,No,Anou
+D022,Female,23,12,1979,Self-employed,No,No,Vientiane Province,Thoulakhom,2025-04-10,2025-04-15,39.2,Positive,Yes,Kham
+D023,Male,18,12,1982,Student,No,NA,Savannakhet,Kaysone,2025-07-23,2025-07-26,39.1,Negative,No,Som
+D024,Female,11,8,2012,Farmer,Yes,No,Luang Prabang,Xiengngeun,2025-04-28,2025-04-28,37.7,Positive,No,Dara
+D025,Female,10,3,1994,Healthcare Worker,No,No,Champasak,Pakse,2025-01-21,2025-01-23,38.2,Negative,No,Som
+D026,Male,4,10,2020,Self-employed,Yes,NA,Vientiane Capital,Sisattanak,2025-10-13,2025-10-14,38.4,Positive,No,Som
+D027,Female,24,11,1973,Healthcare Worker,No,No,Luang Prabang,Xiengngeun,2025-08-23,2025-08-28,39.1,Positive,Yes,Kham
+D028,Female,15,10,1998,Self-employed,Yes,No,Champasak,Pakse,2025-09-14,2025-09-16,38.2,Negative,No,Som
+D029,Male,14,12,1993,Self-employed,No,NA,Vientiane Capital,Sisattanak,2025-12-08,2025-12-10,37.7,Negative,No,Anou
+D030,Female,24,10,1971,Teacher,No,No,Champasak,Pakse,2025-05-16,2025-05-21,39.7,Positive,Yes,Som
+D031,Male,22,6,1981,Teacher,Yes,NA,Vientiane Province,Phonehong,2025-06-09,2025-06-11,37.8,Positive,No,Dara
+D032,Female,1,10,2003,Teacher,Unknown,No,Savannakhet,Outhoumphone,2025-06-23,2025-06-25,38.0,Positive,No,Anou
+D033,Male,23,8,2000,Office Worker,No,NA,Savannakhet,Outhoumphone,2025-05-15,2025-05-17,37.7,Positive,No,Anou
+D034,Male,27,12,1987,Healthcare Worker,No,NA,Vientiane Province,Thoulakhom,2025-01-25,2025-01-26,38.6,Positive,No,Som
+D035,Male,11,8,1991,Healthcare Worker,No,NA,Champasak,Pakse,2025-08-18,2025-08-20,37.5,Positive,No,Dara
+D036,Male,2,10,1993,Teacher,Yes,NA,Vientiane Province,Thoulakhom,2025-01-01,2025-01-03,37.5,Positive,No,Dara
+D037,Female,13,6,1979,Self-employed,Yes,No,Savannakhet,Outhoumphone,2025-01-16,2025-01-21,38.7,Positive,Yes,Som
+D038,Male,14,11,1992,Student,Yes,NA,Vientiane Province,Thoulakhom,2025-09-14,2025-09-16,37.6,Positive,No,Kham
+D039,Female,13,12,1991,Teacher,No,No,Luang Prabang,Luang Prabang,2025-02-11,2025-02-11,38.0,Positive,No,Som
+D040,Male,7,6,2015,Office Worker,No,NA,Vientiane Province,Thoulakhom,2025-05-04,2025-05-07,38.2,Positive,No,Anou
+D041,Female,19,2,1996,Student,No,No,Luang Prabang,Xiengngeun,2025-04-12,2025-04-13,38.6,Positive,No,Som
+D042,Female,3,10,1972,Unemployed,Unknown,No,Luang Prabang,Luang Prabang,2025-08-09,2025-08-09,38.6,Positive,No,Dara
+D043,Female,9,11,1976,Farmer,No,No,Savannakhet,Kaysone,2025-08-20,2025-08-22,37.4,Negative,No,Kham
+D044,Male,1,10,1985,Office Worker,No,NA,Luang Prabang,Xiengngeun,2025-04-21,2025-04-22,37.7,Negative,No,Som
+D045,Female,16,2,2010,Teacher,Yes,No,Luang Prabang,Xiengngeun,2025-05-14,2025-05-16,38.4,Positive,No,Kham
+D046,Female,27,9,2003,Teacher,No,No,Vientiane Province,Thoulakhom,2025-09-21,2025-09-23,37.4,Positive,No,Anou
+D047,Male,3,2,1986,Unemployed,Yes,NA,Vientiane Capital,Sisattanak,2025-07-10,2025-07-12,37.9,Negative,No,Anou
+D048,Male,19,5,1997,Teacher,No,NA,Savannakhet,Outhoumphone,2025-01-06,2025-01-08,38.4,Negative,No,Som
+D049,Male,5,8,1969,Unemployed,No,NA,Champasak,Pakse,2025-04-05,2025-04-10,39.2,Positive,Yes,Anou
+D050,Male,22,5,1988,Farmer,Yes,NA,Champasak,Pathoumphone,2025-11-14,2025-11-16,38.3,Negative,No,Kham
+D051,Female,24,9,1979,Office Worker,No,No,Vientiane Province,Thoulakhom,2025-07-20,2025-07-22,39.6,Negative,Yes,Dara
+D052,Male,17,5,1969,Office Worker,Yes,NA,Savannakhet,Kaysone,2025-08-10,2025-08-12,37.9,Negative,No,Anou
+D053,Female,8,6,1997,Farmer,No,No,Champasak,Pakse,2025-12-10,2025-12-11,38.0,Positive,No,Anou
+D054,Female,2,10,1989,Farmer,No,No,Vientiane Province,Phonehong,2025-03-23,2025-03-27,38.8,Positive,Yes,Dara
+D055,Male,13,1,1993,Student,No,NA,Vientiane Province,Thoulakhom,2025-11-28,2025-11-29,38.2,Positive,No,Som
+D056,Female,21,12,1998,Farmer,Unknown,Yes,Champasak,Pakse,2025-06-01,2025-06-03,38.1,Positive,No,Som
+D057,Female,13,5,1969,Farmer,No,No,Vientiane Province,Thoulakhom,2025-11-19,2025-11-19,37.7,Negative,No,Dara
+D058,Female,18,12,1965,Healthcare Worker,No,No,Vientiane Province,Phonehong,2025-12-04,2025-12-12,39.1,Positive,Yes,Som
+D059,Female,20,3,1995,Office Worker,No,No,Luang Prabang,Xiengngeun,2025-03-05,2025-03-06,38.7,Negative,No,Kham
+D060,Female,2,11,1999,Self-employed,No,No,Vientiane Capital,Sisattanak,2025-06-14,2025-06-16,37.8,Positive,No,Kham
+D061,Female,4,1,2011,Self-employed,No,No,Champasak,Pathoumphone,2025-04-26,2025-04-28,38.3,Negative,No,Anou
+D062,Female,4,9,1980,Farmer,No,No,Vientiane Capital,Chanthabouly,2025-12-08,2025-12-09,37.7,Negative,No,Som
+D063,Male,12,8,1989,Self-employed,Yes,NA,Luang Prabang,Luang Prabang,2025-06-22,2025-06-24,38.1,Positive,No,Anou
+D064,Male,5,3,1996,Healthcare Worker,No,NA,Champasak,Pakse,2025-08-25,2025-08-28,38.2,Positive,No,Som
+D065,Female,6,3,1973,Teacher,No,Yes,Vientiane Province,Phonehong,2025-11-06,2025-11-09,38.3,Positive,No,Dara
+D066,Female,17,4,1995,Unemployed,No,No,Luang Prabang,Luang Prabang,2025-11-02,2025-11-07,39.4,Positive,Yes,Kham
+D067,Female,16,5,1986,Office Worker,No,No,Luang Prabang,Luang Prabang,2025-07-18,2025-07-21,37.8,Positive,No,Som
+D068,Female,26,10,1986,Healthcare Worker,Unknown,No,Savannakhet,Kaysone,2025-01-05,2025-01-06,39.0,Negative,No,Anou
+D069,Male,22,9,2011,Healthcare Worker,No,NA,Savannakhet,Kaysone,2025-07-14,2025-07-14,37.2,Negative,No,Dara
+D070,Female,26,10,2006,Healthcare Worker,No,No,Luang Prabang,Luang Prabang,2025-02-17,2025-02-17,39.0,Negative,No,Som
+D071,Female,23,4,1999,Unemployed,No,Yes,Vientiane Capital,Chanthabouly,2025-04-24,2025-04-24,38.6,Positive,No,Dara
+D072,Male,8,7,2003,Office Worker,Unknown,NA,Vientiane Province,Thoulakhom,2025-11-06,2025-11-06,38.4,Negative,No,Anou
+D073,Female,7,3,1988,Healthcare Worker,No,No,Luang Prabang,Luang Prabang,2025-02-03,2025-02-04,38.7,Negative,No,Anou
+D074,Male,13,2,1994,Teacher,No,NA,Vientiane Province,Thoulakhom,2025-05-16,2025-05-19,38.3,Positive,No,Anou
+D075,Male,26,6,1977,Teacher,No,NA,Vientiane Province,Thoulakhom,2025-09-28,2025-09-30,37.4,Negative,No,Kham
+D076,Male,26,9,1966,Student,No,NA,Vientiane Province,Phonehong,2025-11-03,2025-11-04,37.9,Negative,No,Som
+D077,Female,13,9,2004,Office Worker,No,No,Champasak,Pakse,2025-01-23,2025-01-24,38.1,Positive,No,Kham
+D078,Female,3,9,1973,Office Worker,Yes,No,Savannakhet,Outhoumphone,2025-09-10,2025-09-15,39.9,Positive,Yes,Som
+D079,Male,7,4,1997,Student,No,NA,Savannakhet,Kaysone,2025-12-22,2025-12-22,37.4,Negative,No,Kham
+D080,Male,1,4,1983,Unemployed,Yes,NA,Vientiane Capital,Sisattanak,2025-08-02,2025-08-04,39.5,Positive,Yes,Dara
+D081,Male,16,6,1981,Student,No,NA,Vientiane Province,Thoulakhom,2025-10-10,2025-10-14,39.2,Negative,Yes,Kham
+D082,Male,17,8,2012,Healthcare Worker,No,NA,Vientiane Province,Thoulakhom,2025-08-27,2025-08-28,38.3,Negative,No,Anou
+D083,Male,11,12,1988,Self-employed,No,NA,Luang Prabang,Luang Prabang,2025-08-12,2025-08-13,38.9,Positive,No,Anou
+D084,Female,22,11,2011,Student,No,No,Vientiane Capital,Sisattanak,2025-10-26,2025-10-27,37.9,Negative,No,Som
+D085,Female,14,4,2020,Healthcare Worker,Unknown,Yes,Vientiane Capital,Sisattanak,2025-07-14,2025-07-17,38.2,Negative,No,Dara
+D086,Female,28,9,2008,Teacher,Unknown,No,Luang Prabang,Xiengngeun,2025-03-22,2025-03-26,38.3,Positive,No,Kham
+D087,Female,10,1,1990,Student,No,No,Vientiane Province,Phonehong,2025-04-02,2025-04-03,38.1,Positive,No,Kham
+D088,Male,6,4,2014,Teacher,No,NA,Savannakhet,Kaysone,2025-05-10,2025-05-12,37.8,Positive,No,Dara
+D089,Male,3,8,1974,Farmer,Yes,NA,Savannakhet,Kaysone,2025-02-02,2025-02-08,39.3,Positive,Yes,Kham
+D090,Male,14,4,1972,Self-employed,Yes,NA,Vientiane Province,Phonehong,2025-12-08,2025-12-13,38.9,Negative,Yes,Som
+D091,Male,8,2,1985,Unemployed,No,NA,Vientiane Capital,Chanthabouly,2025-08-11,2025-08-14,38.4,Negative,No,Som
+D092,Male,23,12,1985,Farmer,No,NA,Vientiane Province,Phonehong,2025-05-06,2025-05-07,37.6,Positive,No,Anou
+D093,Male,22,6,2013,Student,Unknown,NA,Savannakhet,Kaysone,2025-09-12,2025-09-15,37.9,Negative,No,Anou
+D094,Female,23,4,1979,Student,No,No,Champasak,Pakse,2025-02-06,2025-02-07,37.8,Negative,No,Som
+D095,Female,18,10,1994,Unemployed,No,No,Vientiane Province,Thoulakhom,2025-05-05,2025-05-07,38.0,Positive,No,Anou
+D096,Male,20,4,1973,Self-employed,Yes,NA,Vientiane Capital,Sisattanak,2025-08-12,2025-08-17,39.3,Positive,Yes,Kham
+D097,Female,17,6,2009,Self-employed,No,No,Savannakhet,Outhoumphone,2025-01-28,2025-01-30,37.9,Positive,No,Som
+D098,Male,16,7,1996,Student,Yes,NA,Champasak,Pathoumphone,2025-04-11,2025-04-13,37.7,Positive,No,Dara
+D099,Female,23,4,1997,Teacher,No,No,Vientiane Province,Thoulakhom,2025-06-05,2025-06-06,38.2,Positive,No,Dara
+D100,Female,18,12,1986,Teacher,No,No,Luang Prabang,Luang Prabang,2025-03-19,2025-03-20,38.3,Negative,No,Som
+D101,Female,26,3,1951,Healthcare Worker,No,No,Champasak,Pathoumphone,2025-03-15,2025-03-18,38.9,Negative,Yes,Anou
+D102,Female,8,9,1986,Self-employed,Yes,No,Vientiane Province,Thoulakhom,2025-03-11,2025-03-15,39.8,Positive,Yes,Anou
+D103,Male,24,3,1995,Healthcare Worker,Yes,NA,Vientiane Province,Thoulakhom,2025-06-04,2025-06-05,38.3,Positive,No,Anou
+D104,Female,13,5,2003,Office Worker,Unknown,No,Vientiane Province,Phonehong,2025-10-02,2025-10-05,38.2,Positive,No,Som
+D105,Male,17,2,1979,Farmer,No,NA,Champasak,Pathoumphone,2025-12-15,2025-12-16,39.5,Positive,No,Anou
+D106,Male,15,3,1986,Office Worker,No,NA,Vientiane Capital,Chanthabouly,2025-11-05,2025-11-07,38.0,Positive,No,Som
+D107,Male,11,6,2004,Unemployed,No,NA,Vientiane Province,Thoulakhom,2025-08-05,2025-08-06,37.9,Positive,No,Som
+D108,Male,11,7,2005,Student,Unknown,NA,Vientiane Capital,Chanthabouly,2025-04-02,2025-04-04,37.6,Negative,No,Som
+D109,Female,25,10,1988,Unemployed,Unknown,No,Champasak,Pakse,2025-03-01,2025-03-03,37.6,Positive,No,Dara
+D110,Male,13,7,1961,Office Worker,Yes,NA,Savannakhet,Outhoumphone,2025-12-27,2025-12-31,39.7,Negative,Yes,Dara
+D111,Female,2,11,1990,Student,No,No,Luang Prabang,Luang Prabang,2025-01-12,2025-01-15,37.5,Negative,No,Anou
+D112,Male,2,5,1997,Unemployed,No,NA,Champasak,Pakse,2025-04-23,2025-04-26,37.7,Negative,No,Kham
+D113,Female,12,9,2020,Farmer,No,No,Luang Prabang,Luang Prabang,2025-03-14,2025-03-14,36.7,Positive,No,Kham
+D114,Male,14,6,2001,Healthcare Worker,No,NA,Champasak,Pakse,2025-05-14,2025-05-18,39.7,Positive,Yes,Anou
+D115,Male,3,10,2001,Teacher,No,NA,Luang Prabang,Luang Prabang,2025-03-10,2025-03-12,37.9,Positive,No,Anou
+D116,Female,23,6,1995,Student,No,No,Vientiane Province,Phonehong,2025-12-11,2025-12-12,37.9,Positive,No,Som
+D117,Male,1,5,1990,Healthcare Worker,No,NA,Vientiane Province,Thoulakhom,2025-09-10,2025-09-10,38.5,Positive,No,Anou
+D118,Female,22,12,1984,Teacher,No,No,Luang Prabang,Xiengngeun,2025-10-19,2025-10-20,38.4,Positive,No,Anou
+D119,Female,28,1,2004,Teacher,No,Yes,Savannakhet,Outhoumphone,2025-09-10,2025-09-11,38.1,Positive,No,Som
+D120,Female,20,10,1998,Self-employed,No,No,Vientiane Capital,Chanthabouly,2025-09-23,2025-09-24,37.7,Positive,No,Kham
+D121,Female,12,12,2002,Unemployed,No,No,Savannakhet,Outhoumphone,2025-04-06,2025-04-08,37.0,Positive,No,Som
+D122,Female,14,6,1991,Office Worker,Yes,Yes,Luang Prabang,Luang Prabang,2025-02-06,2025-02-07,38.4,Positive,No,Dara
+D123,Female,9,12,1969,Office Worker,Yes,No,Vientiane Capital,Sisattanak,2025-11-24,2025-11-25,39.4,Positive,Yes,Dara
+D124,Female,4,3,1992,Teacher,No,No,Savannakhet,Outhoumphone,2025-07-07,2025-07-09,37.8,Positive,No,Anou
+D125,Female,25,2,1985,Office Worker,No,No,Champasak,Pakse,2025-04-20,2025-04-21,38.9,Positive,No,Som
+D126,Male,13,8,1989,Unemployed,Yes,NA,Vientiane Province,Phonehong,2025-07-01,2025-07-05,37.6,Positive,No,Kham
+D127,Male,16,10,1997,Office Worker,No,NA,Vientiane Province,Thoulakhom,2025-01-19,2025-01-24,39.5,Positive,Yes,Dara
+D128,Female,22,4,1995,Farmer,No,No,Luang Prabang,Luang Prabang,2025-06-23,2025-06-23,37.8,Positive,No,Dara
+D129,Male,25,4,1968,Self-employed,No,NA,Champasak,Pathoumphone,2025-08-07,2025-08-11,39.2,Positive,Yes,Anou
+D130,Female,10,5,1998,Office Worker,No,No,Vientiane Province,Thoulakhom,2025-04-01,2025-04-02,37.7,Positive,No,Som
+D131,Male,15,12,1993,Student,No,NA,Vientiane Capital,Sisattanak,2025-04-21,2025-04-28,39.0,Negative,Yes,Anou
+D132,Female,13,9,1970,Healthcare Worker,No,No,Vientiane Province,Thoulakhom,2025-01-18,2025-01-21,39.5,Positive,Yes,Som
+D133,Female,3,12,2018,Student,No,No,Vientiane Province,Phonehong,2025-07-24,2025-07-26,38.0,Negative,No,Anou
+D134,Female,6,1,1950,Self-employed,No,No,Vientiane Capital,Chanthabouly,2025-09-24,2025-09-27,39.2,Positive,Yes,Som
+D135,Male,17,8,1991,Teacher,No,NA,Champasak,Pathoumphone,2025-11-13,2025-11-16,37.8,Negative,No,Anou
+D136,Male,19,8,1974,Student,No,NA,Luang Prabang,Xiengngeun,2025-10-21,2025-10-23,38.9,Positive,Yes,Kham
+D137,Female,13,1,1970,Healthcare Worker,Yes,No,Savannakhet,Outhoumphone,2025-03-14,2025-03-20,39.1,Positive,Yes,Kham
+D138,Female,19,2,1971,Self-employed,Yes,No,Vientiane Capital,Sisattanak,2025-11-16,2025-11-19,38.0,Negative,No,Kham
+D139,Male,5,3,2020,Farmer,No,NA,Luang Prabang,Luang Prabang,2025-12-02,2025-12-02,37.6,Positive,No,Anou
+D140,Female,9,8,1962,Office Worker,No,No,Luang Prabang,Luang Prabang,2025-01-20,2025-01-25,38.4,Positive,Yes,Kham
+D141,Female,18,7,1998,Office Worker,No,No,Luang Prabang,Luang Prabang,2025-12-16,2025-12-19,37.8,Positive,No,Som
+D142,Female,5,2,2004,Teacher,No,No,Luang Prabang,Luang Prabang,2025-10-09,2025-10-13,38.0,Positive,No,Dara
+D143,Female,8,12,2001,Teacher,Yes,No,Luang Prabang,Xiengngeun,2025-02-11,2025-02-13,38.0,Negative,No,Anou
+D144,Female,16,12,2001,Farmer,Unknown,No,Vientiane Capital,Chanthabouly,2025-03-05,2025-03-08,38.6,Negative,No,Dara
+D145,Female,11,8,1985,Office Worker,No,No,Luang Prabang,Luang Prabang,2025-04-13,2025-04-14,38.6,Positive,No,Kham
+D146,Female,28,2,1996,Self-employed,Yes,No,Champasak,Pathoumphone,2025-09-09,2025-09-11,38.5,Negative,No,Anou
+D147,Male,24,7,1986,Self-employed,Yes,NA,Champasak,Pakse,2025-08-11,2025-08-14,38.2,Positive,No,Anou
+D148,Female,20,7,2016,Unemployed,No,No,Champasak,Pakse,2025-06-06,2025-06-06,38.7,Positive,No,Anou
+D149,Male,22,3,1999,Healthcare Worker,Unknown,NA,Vientiane Province,Phonehong,2025-08-13,2025-08-15,37.6,Positive,No,Anou
+D150,Male,15,4,1983,Unemployed,No,NA,Savannakhet,Kaysone,2025-11-26,2025-11-27,38.7,Negative,No,Kham
+D151,Male,18,10,2002,Teacher,Yes,NA,Savannakhet,Kaysone,2025-07-26,2025-07-29,38.3,Negative,No,Som
+D152,Male,24,5,2004,Healthcare Worker,No,NA,Vientiane Capital,Chanthabouly,2025-10-10,2025-10-13,37.5,Positive,No,Som
+D153,Female,12,5,2005,Unemployed,Yes,No,Savannakhet,Kaysone,2025-08-04,2025-08-06,37.7,Negative,No,Som
+D154,Female,7,4,2003,Unemployed,No,No,Vientiane Province,Phonehong,2025-08-04,2025-08-05,37.5,Positive,No,Anou
+D155,Male,22,4,1963,Farmer,No,NA,Vientiane Province,Phonehong,2025-07-05,2025-07-10,39.2,Positive,Yes,Som
+D156,Male,3,7,1997,Self-employed,No,NA,Savannakhet,Outhoumphone,2025-03-23,2025-03-25,38.9,Positive,No,Som
+D157,Female,16,6,1985,Unemployed,No,No,Luang Prabang,Xiengngeun,2025-10-09,2025-10-10,38.4,Negative,No,Kham
+D158,Male,22,7,1977,Teacher,Yes,NA,Luang Prabang,Luang Prabang,2025-03-24,2025-03-28,39.9,Positive,Yes,Anou
+D159,Female,17,6,2001,Farmer,No,No,Savannakhet,Outhoumphone,2025-05-27,2025-05-28,37.0,Negative,No,Kham
+D160,Female,13,1,2012,Student,No,No,Savannakhet,Kaysone,2025-08-22,2025-08-24,37.7,Negative,No,Som
+D161,Female,1,3,1989,Unemployed,No,No,Vientiane Capital,Chanthabouly,2025-12-08,2025-12-08,37.6,Positive,No,Dara
+D162,Female,19,9,1987,Self-employed,No,No,Luang Prabang,Luang Prabang,2025-01-08,2025-01-11,38.3,Positive,No,Som
+D163,Female,6,10,1981,Office Worker,No,No,Champasak,Pathoumphone,2025-04-09,2025-04-12,38.5,Negative,No,Anou
+D164,Female,25,12,1987,Self-employed,No,No,Savannakhet,Outhoumphone,2025-07-11,2025-07-15,39.5,Positive,Yes,Kham
+D165,Female,28,11,2000,Self-employed,No,No,Vientiane Province,Thoulakhom,2025-04-06,2025-04-08,37.2,Positive,No,Dara
+D166,Female,9,3,2005,Self-employed,No,No,Vientiane Capital,Chanthabouly,2025-04-25,2025-04-27,36.9,Negative,No,Dara
+D167,Female,10,5,2009,Unemployed,Yes,No,Champasak,Pathoumphone,2025-05-28,2025-05-29,37.1,Positive,No,Anou
+D168,Female,14,7,1995,Unemployed,No,No,Luang Prabang,Xiengngeun,2025-01-27,2025-01-28,37.9,Negative,No,Anou
+D169,Female,8,12,1999,Teacher,No,No,Vientiane Province,Thoulakhom,2025-02-27,2025-03-01,37.7,Negative,No,Dara
+D170,Male,18,1,1974,Student,No,NA,Champasak,Pathoumphone,2025-04-22,2025-04-26,39.4,Positive,Yes,Som
+D171,Male,18,8,1955,Farmer,No,NA,Luang Prabang,Luang Prabang,2025-04-25,2025-04-30,39.3,Positive,Yes,Anou
+D172,Female,18,10,2009,Self-employed,Yes,No,Luang Prabang,Luang Prabang,2025-06-17,2025-06-19,37.6,Positive,No,Dara
+D173,Male,19,6,1985,Office Worker,No,NA,Luang Prabang,Luang Prabang,2025-01-12,2025-01-17,39.3,Positive,Yes,Anou
+D174,Female,23,1,1982,Office Worker,Yes,No,Luang Prabang,Xiengngeun,2025-11-27,2025-11-30,37.7,Positive,No,Dara
+D175,Male,22,7,1994,Teacher,No,NA,Vientiane Province,Phonehong,2025-08-12,2025-08-15,38.5,Positive,No,Kham
+D176,Male,17,2,1987,Student,No,NA,Vientiane Capital,Chanthabouly,2025-03-09,2025-03-12,37.7,Negative,No,Anou
+D177,Female,25,10,1988,Student,No,No,Savannakhet,Kaysone,2025-10-19,2025-10-22,38.8,Negative,No,Som
+D178,Male,13,8,2005,Unemployed,Unknown,NA,Savannakhet,Kaysone,2025-11-24,2025-11-25,38.2,Positive,No,Anou
+D179,Male,2,1,1999,Student,Unknown,NA,Savannakhet,Kaysone,2025-11-08,2025-11-09,38.3,Negative,No,Anou
+D180,Male,2,7,1980,Student,Yes,NA,Luang Prabang,Xiengngeun,2025-07-12,2025-07-14,39.3,Positive,Yes,Anou
+D181,Male,18,11,2001,Unemployed,Unknown,NA,Savannakhet,Kaysone,2025-06-03,2025-06-04,37.2,Negative,No,Dara
+D182,Female,15,12,1983,Teacher,Yes,No,Vientiane Capital,Chanthabouly,2025-06-01,2025-06-01,37.2,Negative,No,Som
+D183,Male,5,12,1999,Teacher,No,NA,Savannakhet,Outhoumphone,2025-01-03,2025-01-06,38.7,Positive,No,Dara
+D184,Male,14,10,2009,Office Worker,Yes,NA,Vientiane Capital,Sisattanak,2025-09-18,2025-09-19,37.2,Positive,No,Dara
+D185,Female,7,7,1983,Office Worker,No,No,Vientiane Province,Thoulakhom,2025-06-19,2025-06-19,37.9,Positive,No,Som
+D186,Male,21,10,1963,Student,Yes,NA,Champasak,Pakse,2025-10-10,2025-10-14,39.8,Positive,Yes,Anou
+D187,Female,28,6,1986,Healthcare Worker,No,No,Vientiane Province,Phonehong,2025-12-17,2025-12-22,39.5,Positive,Yes,Kham
+D188,Male,26,1,1997,Farmer,Yes,NA,Vientiane Capital,Chanthabouly,2025-09-02,2025-09-05,38.3,Negative,No,Dara
+D189,Female,13,8,1995,Office Worker,No,No,Luang Prabang,Luang Prabang,2025-11-11,2025-11-20,39.5,Positive,Yes,Kham
+D190,Female,15,7,1994,Student,No,No,Vientiane Province,Phonehong,2025-08-15,2025-08-15,38.0,Negative,No,Kham
+D191,Female,16,8,2001,Unemployed,Unknown,No,Vientiane Capital,Chanthabouly,2025-12-15,2025-12-17,38.2,Positive,No,Kham
+D192,Female,25,4,1973,Unemployed,Yes,No,Savannakhet,Outhoumphone,2025-09-05,2025-09-07,38.3,Negative,No,Som
+D193,Female,9,8,1991,Student,Yes,No,Vientiane Province,Phonehong,2025-08-19,2025-08-20,37.9,Negative,No,Som
+D194,Male,8,3,1982,Student,Yes,NA,Luang Prabang,Luang Prabang,2025-04-14,2025-04-16,37.7,Negative,No,Dara
+D195,Female,25,3,2009,Healthcare Worker,No,No,Savannakhet,Outhoumphone,2025-11-10,2025-11-11,38.6,Negative,No,Anou
+D196,Male,11,9,1996,Unemployed,No,NA,Vientiane Province,Phonehong,2025-12-09,2025-12-12,37.6,Positive,No,Kham
+D197,Male,28,7,1994,Student,Yes,NA,Vientiane Province,Phonehong,2025-08-27,2025-08-27,37.7,Negative,No,Kham
+D198,Male,18,9,1999,Office Worker,No,NA,Luang Prabang,Luang Prabang,2025-05-14,2025-05-16,38.9,Negative,No,Kham
+D199,Female,11,2,1995,Farmer,No,No,Savannakhet,Outhoumphone,2025-02-28,2025-03-03,38.3,Negative,No,Kham
+D200,Male,23,4,1964,Teacher,No,NA,Savannakhet,Kaysone,2025-05-06,2025-05-10,39.8,Positive,Yes,Kham

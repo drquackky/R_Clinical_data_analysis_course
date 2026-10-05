@@ -1,0 +1,205 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1990,497.19245431027997,580.11974606378,432.34080830382004
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1990,210.81729775987,282.14188402600996,153.11182390584
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1991,242.49594991594,323.64758843831004,176.56405921450002
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1991,551.1848681745599,687.2072419176001,450.37381684913004
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1991,1352.86408771897,1445.191891034,1263.7536359574
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1991,532.5986520592401,607.91540180786,473.80836118305
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1990,240.71853852335002,327.84437148054,168.13782105032
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1990,523.13086508104,671.11494821343,411.80729794840005
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1991,207.22555743190003,273.78789989775004,154.49729275719
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1990,1253.37916143669,1357.52121124812,1159.9465579226
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1993,1511.97790394792,1589.18175844368,1436.89673440342
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1993,603.94980342252,667.4020756758799,554.0934563673101
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1993,204.59902073074002,263.95003985839,158.59867205844
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1992,251.27246657957,327.37705982425,189.63508007317
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1992,570.34293024363,638.2467479497,517.16770710304
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1992,1442.07410027781,1524.2018867183099,1360.81150982016
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1992,205.25797576692,268.60081240958004,156.93598785634
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1992,582.70705032212,705.1782109667901,491.02415110058
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1994,636.8267385222999,693.32859159619,587.82186615621
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1994,289.32166629943003,357.45390682478995,233.80387255582002
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1994,1564.7862891393802,1643.79811701093,1490.84268078638
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1994,647.32780680667,750.67014184525,567.0458295878101
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1993,266.64308006534,338.06476880495,208.65294732139998
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1994,205.53504304902,263.27727295914997,161.64550942610998
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1993,615.12434310906,725.59035853467,528.7797903607301
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1995,669.1301192760201,721.595616874,620.2622045317801
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1996,709.40098514627,805.78271939512,628.38255110225
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1995,318.58234432106,384.62706465905995,264.05780873316996
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1996,698.5645390003,758.1562417349601,649.05845232228
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1996,1632.9969595393502,1711.08040894025,1558.47850943298
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1995,679.0721495532599,774.76822363574,599.16756302829
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1995,1606.3213194453099,1688.93134424552,1531.45472302623
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1996,213.89426230096,269.25451336115003,170.72488858167
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1995,208.84743201743998,264.23692050201004,165.8243255505
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1996,354.33520436076003,417.12551284644,299.96883122211
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1997,723.77431891942,782.48863952888,672.5211655054101
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1997,1642.30117883149,1722.95037860971,1568.3538982156401
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1997,219.14493060819999,275.17997792805,175.81353943320002
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1997,394.65780431477,455.90553362965005,341.54753831036
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1997,736.24860515582,833.46084427161,654.48088237175
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1998,741.8663848840099,799.77107584998,690.25868858175
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1999,752.34704489099,808.1661986262799,700.30344154397
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1999,1619.70869609819,1702.25046511717,1547.15719066198
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1999,228.92224517975998,285.10972077541,183.60594383603998
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1998,1637.2467577052698,1716.3323115778599,1564.1223401304499
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1999,770.28776392228,871.00328889276,689.0673242355699
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1998,224.33804844468,280.50332341101,179.99299657273
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1998,432.78711070973003,495.26850432593,381.89546415052
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1998,757.41158407134,855.99335791143,674.95280156637
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2001,751.07995879263,806.6907521734599,699.74053110083
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2001,234.04418817482,288.76267232593,188.54643632493
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2000,753.117261489,805.94250021767,701.21756709386
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2000,1593.4451947391601,1680.7944140935,1522.42866237481
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2000,232.42760242250998,287.98453143924,186.91378501115
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1999,466.24676437641,528.49070294781,415.21318706037
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2000,477.53774158682,538.74695878968,425.83073051263005
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2000,773.02654613164,875.88853584757,691.80503062404
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2002,739.22168872949,794.6216269364601,688.90328836893
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2002,1513.2672805822099,1601.5125910466902,1445.16567936576
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2002,233.40693191539998,287.42229083411,188.61844754887
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2001,1561.1899499495,1651.3765437072802,1492.21695474322
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2002,512.0201937722301,574.33396882778,461.49629099901995
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2004,681.35508037591,731.94067337101,633.5768249249099
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2001,504.27357164713004,565.2901918973499,453.40376748302
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2002,753.20865784191,846.9456606175299,676.58110716477
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2001,766.08576225615,866.6839389504801,688.20219031371
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2003,714.76612320018,769.8279634943101,665.98994226333
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2004,1364.08964682127,1447.6532354216001,1301.8672507112
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2004,228.20164021393,280.21988226084,184.51793360579
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2003,1437.65709760346,1523.07582332918,1372.23591697105
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2003,508.66723727483,569.60768602451,458.847964606
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2003,231.05097766114,283.92768159861,187.01101627461998
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2003,730.83312205091,820.4435804009701,654.32736516729
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2005,624.7965698122999,674.93166416375,577.9749000642499
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2005,1257.47336467693,1339.2219707784,1199.16107582888
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2005,221.48569233435,272.78052073367996,178.44276247818
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2005,468.926726382,529.88589519136,419.82636228215
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2005,571.56671051041,660.5673990374601,500.06951886528003
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2007,541.47861317668,589.30718095096,500.74487088242
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2004,494.42825397568004,555.45053535596,444.97610841446
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2007,1096.70494585712,1174.35620462243,1047.00163745831
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2006,576.17187482006,627.3212192489,532.36694025266
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2007,218.30173755698,271.7491683118,175.36120457788
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2004,677.25745303822,765.85066119203,602.62831918601
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2006,1166.38659741335,1246.78137842656,1111.5782790764301
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2006,217.45719610764002,269.42300800761,174.94596672048
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2006,435.47701662893,493.56860811015,388.32119847082004
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2006,494.02511228957,580.90466131017,429.27389043045
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2008,1039.55507291913,1112.19590833525,991.28904685467
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2008,506.98091891851,552.4753721931401,469.52897549657
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2008,220.26227563512,275.52871012362,176.12556943803
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2008,328.65845275261,379.32190890199,284.41104131037
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2008,431.08274180915004,499.80742799806,378.91741482478
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2007,402.06026108097006,456.2937173353,357.70488788826003
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2009,477.20507437979995,519.94125906697,442.78499093825
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2007,455.14286334272003,533.68814575125,395.03813493837004
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2010,457.71423336712,497.22795650851,425.2312181638
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2010,955.10141247875,1014.85422912134,911.61644159147
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2010,217.71489450278003,273.55678001903,172.94922933320998
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2009,999.20921201825,1065.03547703037,953.7638038878299
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2009,220.39618846108,276.29848691559,175.6152740831
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2011,439.05382376708,477.34901904466005,406.51305020623
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2010,387.67756676492,445.58721010201,345.4122658335
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2009,244.39334942387,290.40223001748,203.74111383863
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2009,409.49105169504,470.78198936354005,363.4459479807
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2012,208.09449650771003,261.98744430012,164.45694984386
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2011,894.81976167179,951.69416244604,852.53258426622
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2011,214.63610526057,269.66609024538,169.25894113362
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2012,418.35434702300006,455.57137822162997,387.27994744134
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2010,220.21469019972,263.8092838933,180.14101395137
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2013,401.71418590352994,437.62597527054004,371.46497506024997
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2013,807.7547008320901,853.99531258963,769.7518519496999
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2012,841.41989048938,891.50177835161,803.81418414502
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2011,226.34522442176998,270.21896101079,184.99563186335
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2013,204.09290118945998,256.82852366443996,161.9504908093
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2011,373.51944559482996,428.66326443161995,333.38551953448
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2015,390.18610323653,425.17574444355,358.88724785415
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2013,201.20570676106001,243.32619574545,159.74932560855
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2014,393.89880799621005,428.94773793797003,363.09594723729
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2013,358.19564614737,406.74579423068,318.15506816322
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2012,219.29658809919,262.55850364327,178.0359900454
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2012,365.33207443956996,417.07566654272,325.0066144914
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2014,787.12764040373,833.48627402316,747.66003996462
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2015,204.81575408118,257.24844104696,162.31989867002
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2014,203.72363444847,256.23468859705,161.52751939562
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2016,770.86793167141,818.79872564281,728.33819363248
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2016,385.97735345231,421.58132107714,353.68959515589
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2014,197.75958159675002,239.42096342656998,155.39572299048
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2015,779.59962502076,828.32258621219,739.09977766195
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2016,209.34561102346998,262.06136037169,165.12886576272
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2014,353.55071288215004,400.00464613559,313.37865497846
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2018,397.64310025866,438.47465040388005,358.81944941641
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2016,183.43388930026,229.29490803199,145.8043176023
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2017,387.42726890385,424.92147891192,352.11729123857
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2016,348.48463975326,394.39801222251003,307.88592267462
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2015,195.14057730312,237.32538531817,153.13498819154
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2015,347.84092057470997,393.05394233717,308.19765120771
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2017,759.79650332347,809.30759353264,715.00271152282
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2017,220.38234935511,273.50739781681,175.67873148559
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2018,757.71203928764,812.82957981121,710.99949351335
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2018,232.9312380193,287.89491070547,186.05184199153
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2019,755.86056828491,814.5274270796,706.52593514889
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2019,411.39535605433,455.12367203077997,370.50604719789
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2019,246.37323806412002,304.09405872594004,196.6846119391
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2017,183.68660625523,232.19567597519,148.16178038872
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2017,353.73247212792,402.74423964183,309.10126175286
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2020,439.31460424701,488.2839902759,393.87019786085
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2019,215.99222641364003,271.14016996838996,171.64200675913
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2021,466.35039475457,527.74435050074,410.26447840961
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2019,376.15704775436,435.04249999602,321.05390602714
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2020,772.15026135477,831.46746547926,719.73404170432
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2020,264.77516872015,323.67690683197003,212.69072452436
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2021,788.9098970574399,855.5782274418101,728.3982270253
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2021,287.70605645504,360.83787550611004,226.33901583883
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2018,197.21042710664,248.40130268360002,158.17560185309
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2022,475.83958068567995,549.22099186638,414.05762233705
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2018,361.38601504376,414.37987552395,313.08691227549997
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2022,783.9317452049801,857.89923455017,719.66872114621
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2022,286.53096528296004,369.49269801837,218.26502935799
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2021,442.79203655044,532.28150941306,362.62262837478
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2020,250.56221590329,308.32529160995,199.58638514601
+1,All Population,6,Incidence,1,Global,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2023,474.46689403499,548.27398962744,412.6110025634
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2020,412.13662357106,481.92200313485,345.45417978131997
+1,All Population,6,Incidence,44637,Low SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2023,774.3918527174,855.6024826485001,709.5478115068901
+1,All Population,6,Incidence,44639,Middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2023,287.80517593039,370.13611638083,218.94771863553999
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2022,302.28701176143,396.36027691233,226.75129791412002
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2022,460.20931043481005,572.33771621013,363.60843853499
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2021,284.17308801439,362.3946361361,218.93119247803
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1990,112.00571427421,143.43699650069,88.54648094574
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1991,112.11417066073,142.20754343382,90.2254816617
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1992,112.70195066807,142.61014908727,91.35888091533
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1993,100.49619409732999,126.54179515567999,81.21414508083001
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1994,94.93099219944,118.56796600121,76.78980154625
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1995,93.94706750648001,116.97160775919001,75.99646739385
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1996,92.90196805541,114.72328634478,75.80627755847
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1997,94.21655104544,116.71095201853,77.21772175103
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1998,93.82553887214,116.07846147534,76.65043906144
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,1999,92.58817419540999,115.00533263490999,74.91177563813001
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2000,91.7173603202,114.62389534519001,73.87943419228
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2001,90.09561725038,112.91705078268001,72.58126737412
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2002,88.79203039234,111.33694597746,71.56452557062
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2003,87.34724004589,109.55791226474,70.39501422366
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2004,82.20059152017001,103.33650478764999,65.59832569573
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2005,80.87908407138,101.61756991383,64.27880878661
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2006,79.76694382653,100.51983434035,63.35198578922
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2007,78.25875814695999,98.40126544630002,62.34433214502
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2008,76.40646775815,96.05411962861,60.84750101597
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2009,74.60541319408999,93.61548503329,59.702938209370004
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2010,73.82692864939,92.11978801080001,59.282457150009996
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2011,73.97827692764,92.28366089002999,59.761722915339995
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2012,75.2376320541,93.98591167474,60.790090065769995
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2013,74.80282136577,93.15322830197,60.76743177404
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2014,75.53322509802,93.82596544367,61.340718854239995
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2015,76.85976748256,96.02793536429,62.3009402037
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2016,77.83108442212,96.91371185277,63.19462067002
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2017,79.5984323558,98.49467304381,64.67962605344
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2018,82.93550555011,102.43853795314001,67.52331811599001
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2019,86.87994795226,106.87995525562,70.79181184485
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2020,94.04645933313999,114.96579046852,76.418414549
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2021,101.07627109577999,125.9446009389,81.32530477363001
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2022,104.38573554195001,135.08339133225,81.54830358326
+1,All Population,6,Incidence,44635,High SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2023,104.44636043006001,134.31269757277002,81.85347974366
+1,All Population,6,Incidence,44634,High-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2023,294.77235152920997,389.12444259507,218.36237248385
+1,All Population,6,Incidence,44636,Low-middle SDI,3,Both,28,<1 year,955,HIV/AIDS and sexually transmitted infections,3,Rate,2023,454.28515645678004,565.73529287937,358.83478088092
